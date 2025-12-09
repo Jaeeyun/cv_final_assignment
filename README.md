@@ -96,6 +96,7 @@ For each epoch, the model is trained and validated as follows:
 
 ### 8. Model Saving
 After training, the model is saved as a .pth file using the weights that achieved the best validation accuracy.
+<img width="600" height="100" alt="image" src="https://github.com/user-attachments/assets/5e0a8f32-1a24-4ccc-8052-77e55048808d" />
 - best validation accuracy: 93.53% (Epoch 8)
 
 ## Test Pipeline
@@ -135,7 +136,7 @@ For all test samples:
 ## Test Results
 #### Overall Accuracy: 86.43% (1306 / 1511 correct predictions)
 ### Per-Class Performance
-<img width="876" height="554" alt="image" src="https://github.com/user-attachments/assets/ee6447d9-8337-4e2e-99d7-f50f483f36c9" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/ee6447d9-8337-4e2e-99d7-f50f483f36c9" />
 
 ### Result Interpretation
 1. Strong performance on most classes
